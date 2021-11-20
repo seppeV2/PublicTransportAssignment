@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.31)  17 NOV 2021 18:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.31)  20 NOV 2021 18:13
 entering extended mode
 **"./template_Kulak Report.tex"
 ("template_Kulak Report.tex"
@@ -937,7 +937,7 @@ G,.JBIG2,.JB2,.eps]
 ) ABD: EveryShipout initializing macros
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-<kuleuvenLogo.pdf, id=58, 159.33528pt x 56.90259pt>
+<kuleuvenLogo.pdf, id=66, 159.33528pt x 56.90259pt>
 File: kuleuvenLogo.pdf Graphic file (type pdf)
 <use kuleuvenLogo.pdf>
 Package pdftex.def Info: kuleuvenLogo.pdf  used on input line 28.
@@ -963,7 +963,7 @@ Chapter 1.
 ]
 Chapter 2.
 (TypesOfTransport.tex
-<MobilityInTheCityJPG/Graphs/UseOfTransportPurpose.jpg, id=101, 250.2951pt x 28
+<MobilityInTheCityJPG/Graphs/UseOfTransportPurpose.jpg, id=111, 250.2951pt x 28
 7.1528pt>
 File: MobilityInTheCityJPG/Graphs/UseOfTransportPurpose.jpg Graphic file (type 
 jpg)
@@ -979,67 +979,85 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 pdfTeX warning: pdflatex.exe (file ./MobilityInTheCityJPG/Graphs/Motorways.pdf)
 : PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<MobilityInTheCityJPG/Graphs/Motorways.pdf, id=110, 513.60483pt x 507.90755pt>
+<MobilityInTheCityJPG/Graphs/Motorways.pdf, id=120, 513.60483pt x 507.90755pt>
 File: MobilityInTheCityJPG/Graphs/Motorways.pdf Graphic file (type pdf)
 <use MobilityInTheCityJPG/Graphs/Motorways.pdf>
 Package pdftex.def Info: MobilityInTheCityJPG/Graphs/Motorways.pdf  used on inp
-ut line 14.
-(pdftex.def)             Requested size: 172.5pt x 170.58601pt.
+ut line 13.
+(pdftex.def)             Requested size: 513.60356pt x 507.9063pt.
+
+Overfull \hbox (375.60567pt too wide) in paragraph at lines 13--14
+[][] 
+ []
+
 
 
 pdfTeX warning: pdflatex.exe (file ./MobilityInTheCityJPG/Graphs/PTnetwork.pdf)
 : PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<MobilityInTheCityJPG/Graphs/PTnetwork.pdf, id=111, 505.86592pt x 421.75566pt>
+<MobilityInTheCityJPG/Graphs/PTnetwork.pdf, id=121, 505.86592pt x 421.75566pt>
 File: MobilityInTheCityJPG/Graphs/PTnetwork.pdf Graphic file (type pdf)
 <use MobilityInTheCityJPG/Graphs/PTnetwork.pdf>
 Package pdftex.def Info: MobilityInTheCityJPG/Graphs/PTnetwork.pdf  used on inp
-ut line 19.
-(pdftex.def)             Requested size: 172.5pt x 143.81976pt.
+ut line 18.
+(pdftex.def)             Requested size: 505.86467pt x 421.75462pt.
 
-Overfull \hbox (2.22221pt too wide) in paragraph at lines 13--23
-[][] [] 
+Overfull \hbox (367.86678pt too wide) in paragraph at lines 18--19
+[][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
  []
 
 [5
 
-] [6 <./MobilityInTheCityJPG/Graphs/UseOfTransportPurpose.jpg> <./MobilityInThe
-CityJPG/Graphs/Motorways.pdf> <./MobilityInTheCityJPG/Graphs/PTnetwork.pdf>]) [
-7]
-Chapter 3.
-[8
+]
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
-] ("template_Kulak Report.bbl" [9
+ []
+
+[6 <./MobilityInTheCityJPG/Graphs/UseOfTransportPurpose.jpg>] [7 <./MobilityInT
+heCityJPG/Graphs/Motorways.pdf> <./MobilityInTheCityJPG/Graphs/PTnetwork.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+[8]) [9]
+Chapter 3.
+[10
+
+] ("template_Kulak Report.bbl" [11
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 4--8
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
 []\OT1/cmr/m/n/10 BerlinStadtService.  Ex-press-bus in berlin.  []$\OT1/cmtt/m/
 n/10 https : / / www .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--22
+Underfull \hbox (badness 10000) in paragraph at lines 30--35
 \OT1/cmtt/m/n/10 berlin . de / sen / uvk / en / traffic / traffic-[]data / fact
 s-[]and-[]figures /
  []
 
-) [10
 
-] [11
+Underfull \hbox (badness 1748) in paragraph at lines 59--62
+[]\OT1/cmr/m/n/10 Wikipedia.  Cy-cling in berlin.  []$\OT1/cmtt/m/n/10 https : 
+/ / en . wikipedia . org / wiki /
+ []
 
+[12
 
-]
-<kuleuvenSedes.pdf, id=357, 349.305pt x 596.2275pt>
+]) [13]
+<kuleuvenSedes.pdf, id=423, 349.305pt x 596.2275pt>
 File: kuleuvenSedes.pdf Graphic file (type pdf)
 <use kuleuvenSedes.pdf>
 Package pdftex.def Info: kuleuvenSedes.pdf  used on input line 56.
 (pdftex.def)             Requested size: 25.00282pt x 42.67912pt.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 56.
- [12
+ [14
+
 
 
  <C:/Program Files (x86)/texstudio/templates/LaTeX/texmf/tex/latex/kulak/kuleuv
@@ -1050,17 +1068,17 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 56.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 56.
 Package rerunfilecheck Info: File `"template_Kulak Report".out' has not changed
 .
-(rerunfilecheck)             Checksum: 58AA2598962D3809BBB4B6A28A9D19AC;732.
+(rerunfilecheck)             Checksum: 16443961C01754A5B4EF1267FEF41CE2;871.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 56.
  ) 
 Here is how much of TeX's memory you used:
- 19271 strings out of 492453
- 379276 string characters out of 3120075
- 440921 words of memory out of 3000000
- 23248 multiletter control sequences out of 15000+200000
+ 19300 strings out of 492453
+ 379587 string characters out of 3120075
+ 443212 words of memory out of 3000000
+ 23260 multiletter control sequences out of 15000+200000
  10959 words of font info for 38 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,15n,69p,1097b,1117s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,15n,69p,1735b,1117s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\evanl\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
 tcrm1000.pk><C:/Users/evanl/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmbx10.pfb><C:/Users/evanl/AppData/Local/Programs/MiKTeX 2.9/font
@@ -1079,9 +1097,9 @@ vanl/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pf
 b><C:/Users/evanl/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmti8.pfb><C:/Users/evanl/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmtt10.pfb>
-Output written on "template_Kulak Report.pdf" (12 pages, 1594598 bytes).
+Output written on "template_Kulak Report.pdf" (14 pages, 1618802 bytes).
 PDF statistics:
- 425 PDF objects out of 1000 (max. 8388607)
- 42 named destinations out of 1000 (max. 500000)
- 142 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 494 PDF objects out of 1000 (max. 8388607)
+ 59 named destinations out of 1000 (max. 500000)
+ 158 words of extra memory for PDF output out of 10000 (max. 10000000)
 
