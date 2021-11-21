@@ -5,6 +5,13 @@ Civitatis Berlin.
 \newblock Trams in berlin.
 \newblock \url{https://www.introducingberlin.com/tram}, November 2021.
 
+\bibitem{tarif}
+S-Bahn Berlin.
+\newblock Fare zones.
+\newblock
+  \url{https://sbahn.berlin/en/tickets/the-vbb-fare-explained/fare-zones/},
+  November 2021.
+
 \bibitem{SBahnFIGURES}
 S-Bahn Berlin.
 \newblock S-bahn berlin at a glance -- brief summary: Company figures,
@@ -12,6 +19,13 @@ S-Bahn Berlin.
 \newblock
   \url{https://sbahn.berlin/en/about-us/company-profile/s-bahn-berlin-at-a-glance/},
   November 2021.
+
+\bibitem{ticketing1}
+Berlin.de.
+\newblock Tickets, fares and route maps.
+\newblock
+  \url{https://www.berlin.de/en/public-transportation/1772016-2913840-tickets-fares-and-route-maps.en.html},
+  October 2021.
 
 \bibitem{xpress}
 BerlinStadtService.
@@ -38,6 +52,13 @@ Moving to~Berlin.
 \newblock Bike sharing companies in berlin.
 \newblock \url{https://www.movingto-berlin.com/bikesharing-berlin/}, November
   2021.
+
+\bibitem{pricesPT}
+Roger Wade.
+\newblock Public transportation prices in 80 worldwide cities.
+\newblock
+  \url{https://www.priceoftravel.com/595/public-transportation-prices-in-80-worldwide-cities/},
+  May 2017.
 
 \bibitem{SBahn}
 Wikipedia.
