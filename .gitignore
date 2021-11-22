@@ -1,5 +1,5 @@
-*.aux
-*.out
-*.toc
-*.gz
-*.log
+report/*.aux
+report/*.out
+report/*.toc
+report/*.gz
+report/*.log
