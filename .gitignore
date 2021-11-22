@@ -3,3 +3,5 @@ report/*.out
 report/*.toc
 report/*.gz
 report/*.log
+report/*.bbl
+report/*.blg
