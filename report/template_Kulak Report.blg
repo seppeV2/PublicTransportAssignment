@@ -3,44 +3,44 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: template_Kulak Report.aux
 The style file: plain.bst
 Database file #1: References.bib
-You've used 18 entries,
+You've used 19 entries,
             2118 wiz_defined-function locations,
-            571 strings with 6048 characters,
-and the built_in function-call counts, 3838 in all, are:
-= -- 363
-> -- 132
+            577 strings with 6220 characters,
+and the built_in function-call counts, 4076 in all, are:
+= -- 383
+> -- 139
 < -- 0
-+ -- 57
-- -- 38
-* -- 148
-:= -- 647
-add.period$ -- 54
-call.type$ -- 18
-change.case$ -- 73
++ -- 60
+- -- 40
+* -- 159
+:= -- 686
+add.period$ -- 57
+call.type$ -- 19
+change.case$ -- 77
 chr.to.int$ -- 0
-cite$ -- 18
-duplicate$ -- 126
-empty$ -- 397
-format.name$ -- 38
-if$ -- 836
+cite$ -- 19
+duplicate$ -- 140
+empty$ -- 425
+format.name$ -- 40
+if$ -- 888
 int.to.chr$ -- 0
-int.to.str$ -- 18
-missing$ -- 0
-newline$ -- 93
-num.names$ -- 36
-pop$ -- 145
+int.to.str$ -- 19
+missing$ -- 1
+newline$ -- 98
+num.names$ -- 38
+pop$ -- 153
 preamble$ -- 1
-purify$ -- 55
+purify$ -- 58
 quote$ -- 0
-skip$ -- 126
+skip$ -- 133
 stack$ -- 0
-substring$ -- 91
-swap$ -- 18
+substring$ -- 96
+swap$ -- 20
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 72
+type$ -- 76
 warning$ -- 0
-while$ -- 36
-width$ -- 20
-write$ -- 182
+while$ -- 38
+width$ -- 21
+write$ -- 192
