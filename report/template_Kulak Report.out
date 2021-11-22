@@ -1,2 +1,15 @@
-\BOOKMARK [0][-]{chapter.1}{Eerste hoofdstuk}{}% 1
-\BOOKMARK [1][-]{section.1.1}{Sectie-titel}{chapter.1}% 2
+\BOOKMARK [0][-]{chapter.1}{Description of the city}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Types of transport}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Car}{chapter.2}% 3
+\BOOKMARK [1][-]{section.2.2}{Bus}{chapter.2}% 4
+\BOOKMARK [1][-]{section.2.3}{Tram}{chapter.2}% 5
+\BOOKMARK [1][-]{section.2.4}{Train}{chapter.2}% 6
+\BOOKMARK [2][-]{subsection.2.4.1}{S-Bahn}{section.2.4}% 7
+\BOOKMARK [2][-]{subsection.2.4.2}{U-Bahn}{section.2.4}% 8
+\BOOKMARK [1][-]{section.2.5}{Ticketing system and price}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.6}{Bike \(sharing system\)}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.7}{Sharing systems}{chapter.2}% 11
+\BOOKMARK [0][-]{chapter.3}{Problem and solution}{}% 12
+\BOOKMARK [1][-]{section.3.1}{Problem statement}{chapter.3}% 13
+\BOOKMARK [1][-]{section.3.2}{Upcoming changes}{chapter.3}% 14
+\BOOKMARK [1][-]{section.3.3}{Proposals}{chapter.3}% 15

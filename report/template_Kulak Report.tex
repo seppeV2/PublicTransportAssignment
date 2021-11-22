@@ -1,15 +1,20 @@
 \documentclass[a4paper,twoside,kul]{kulakreport} %options: kul or kulak (default)
 
-\usepackage[dutch]{babel}
+\usepackage[english]{babel}
+\usepackage[nosort]{cite}
+\usepackage{textcomp}
+\usepackage{graphicx}
+\usepackage{subcaption}
 
-\faculty{Wetenschap \& Technologie Kulak}
-\group{Zuivere wiskunde en wiskunde-onderwijs}
-\title{Titel van het document}
+
+\faculty{Master of Mobility and supply chain engineering}
+\group{Public Transportation, Design and Management [H0T93a]}
+\title{Analysis Berlin}
 \subtitle{Ondertitel van het document}
-\author{Stijn Rebry}
-\emailaddress{first.last@kuleuven.be}
-\institute{KU Leuven Kulak, Wetenschap \& Technologie}
-\date{Academiejaar yyyy -- zzzz}
+\author{Edward Vanlerberghe and Seppe Vilain}
+\emailaddress{edward.vanlerberghe@student.kuleuven.be seppe.vilain@student.kuleuven.be}
+\institute{KU Leuven}
+\date{Academiejaar 2021-2022}
 \address{
    KU Leuven Kulak           \\
    Wetenschap \& Technologie \\
@@ -24,14 +29,28 @@
 
 \tableofcontents
 
-\chapter*{Inleiding}
+\chapter*{Introduction}
 Inleidende tekst.
 
-\chapter{Eerste hoofdstuk}
-\section{Sectie-titel}
-Tekst.
+\chapter{Description of the city}
 
-\chapter*{Besluit}
-Afsluitende tekst.
+\chapter{Types of transport}
+\input{TypesOfTransport.tex}
+	
+	
+\chapter{Problem and solution}
+\section{Problem statement}
+
+
+\section{Upcoming changes}
+
+
+\section{Proposals}
+
+
+\chapter*{Conclusion}
+
+\bibliographystyle{plain}
+\bibliography{References}
 
 \end{document}
