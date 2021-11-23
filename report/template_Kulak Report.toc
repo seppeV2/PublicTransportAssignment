@@ -1,3 +1,0 @@
-\babel@toc {dutch}{}
-\contentsline {chapter}{\numberline {1}Eerste hoofdstuk}{4}{chapter.1}
-\contentsline {section}{\numberline {1.1}Sectie-titel}{4}{section.1.1}

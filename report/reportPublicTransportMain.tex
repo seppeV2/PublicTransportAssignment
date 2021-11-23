@@ -1,0 +1,59 @@
+\documentclass[a4paper,twoside,kul]{kulakreport} %options: kul or kulak (default)
+
+\usepackage[english]{babel}
+\usepackage[nosort]{cite}
+\usepackage{textcomp}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{fullpage}
+\usepackage{cleveref}
+\usepackage{etoolbox}
+
+\makeatletter
+\patchcmd{\chapter}{\if@openright\cleardoublepage\else\clearpage\fi}{}{}{}
+\makeatother
+
+\faculty{Master of Mobility and supply chain engineering}
+\group{Public Transportation, Design and Management [H0T93a]}
+\title{Analysis: Commuting to Berlin}
+\subtitle{Exam assignment}
+\author{Edward Vanlerberghe and Seppe Vilain}
+\institute{KU Leuven}
+\date{Academiejaar 2021-2022}
+\address{
+   KU Leuven         \\
+   Faculty of Engineering Science \\
+   Kasteelpark Arenberg 1 bus 2200\\
+   B-3001 LEUVEN             \\
+   \texttt{edward.vanlerberghe@student.kuleuven.be} \\
+   \texttt{ seppe.vilain@student.kuleuven.be}
+   }
+
+\begin{document} % hier begint de eigenlijke inhoud van het document
+
+\titlepage
+\tableofcontents
+
+\clearpage
+\chapter*{Introduction}
+Inleidende tekst.
+
+\clearpage
+\chapter{Types of transport}
+\input{TypesOfTransport.tex}
+	
+\clearpage
+\chapter{Problem and solution}
+\input{ProblemAndSolution.tex}
+
+\chapter*{Conclusion}
+Besluit hier typen
+
+\clearpage
+
+%bibliography
+\nocite{dlr76743}
+\bibliographystyle{plain}
+\bibliography{References}
+
+\end{document}
