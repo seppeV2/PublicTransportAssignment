@@ -6,7 +6,12 @@
 \usepackage{graphicx}
 \usepackage{subcaption}
 \usepackage{fullpage}
+\usepackage{cleveref}
+\usepackage{etoolbox}
 
+\makeatletter
+\patchcmd{\chapter}{\if@openright\cleardoublepage\else\clearpage\fi}{}{}{}
+\makeatother
 
 \faculty{Master of Mobility and supply chain engineering}
 \group{Public Transportation, Design and Management [H0T93a]}
@@ -27,22 +32,26 @@
 \begin{document} % hier begint de eigenlijke inhoud van het document
 
 \titlepage
-
 \tableofcontents
 
+\clearpage
 \chapter*{Introduction}
 Inleidende tekst.
 
-
+\clearpage
 \chapter{Types of transport}
 \input{TypesOfTransport.tex}
 	
-	
+\clearpage
 \chapter{Problem and solution}
 \input{ProblemAndSolution.tex}
 
-
 \chapter*{Conclusion}
+Besluit hier typen
+
+\clearpage
+
+%bibliography
 \nocite{dlr76743}
 \bibliographystyle{plain}
 \bibliography{References}
