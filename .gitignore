@@ -1,7 +1,8 @@
-report/*.aux
-report/*.out
-report/*.toc
-report/*.gz
-report/*.log
-report/*.bbl
-report/*.blg
+*.aux
+*.out
+*.toc
+*.gz
+*.log
+*.pdf
+*.bbl
+*.blg
